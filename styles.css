@@ -1,0 +1,77 @@
+.profile{
+    display: flex;
+   align-items: center;
+}
+.box1 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-right: 20px      
+}
+.box1{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 20px;
+    /* border: 5px solid seagreen; */
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 20px;
+    float: inline-start;
+    
+}
+.box1 h1{
+    font-size: 40px;
+    text-align: start;
+}
+.section1{
+    display: flex; 
+    width:100%;
+    padding:20px;
+    border:5px solid seagreen;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.information{
+    width: 20%;
+    display: flex;
+    text-align: right;
+    border: 80px solid seagreen; 
+    margin-left: 20px;
+    
+}
+
+.objective{
+    margin-top: 20px;
+    border: 5px solid seagreen;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.education{
+    margin-top: 20px;
+    border: 5px solid seagreen;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.experience{
+    margin-top: 20px;
+    border: 5px solid seagreen;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+.box3{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px;
+    border: 5px solid seagreen;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 20px;
+    float:inline-start;
+}
